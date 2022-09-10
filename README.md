@@ -24,16 +24,3 @@ I am a web developer, I had fun with every single line of code and I wish to cod
 
 ![Windows](https://img.icons8.com/color/35/windows-10.png)![Linux](https://img.icons8.com/color/35/linux.png)![Ubuntu](https://img.icons8.com/color/35/ubuntu--v1.png)![Kali Linux](https://img.icons8.com/color/35/kali-linux.png)
 
-## Github Summary
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khader-1&layout=compact&theme=chartreuse-dark&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khader-1&count_private=true&show_icons=true&theme=chartreuse-dark)
-
-### Github Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{Khader-1}/count.svg)
-
-### Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Khader-1&theme=darkhub&no-frame=true&column=10">
-</a>
