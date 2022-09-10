@@ -6,7 +6,7 @@
 I am a web developer, I had fun with every single line of code and I wish to code some more millions.
 ## Programming Languages & Frameworks
 
-![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![VueJS](https://img.icons8.com/color/35/vue.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)![PHP](https://img.icons8.com/officexs/35/php-logo.png)![Laravel](https://img.icons8.com/fluency/35/laravel.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
+![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![JavaScript](https://img.icons8.com/color/35/javascript.png)![SASS](https://img.icons8.com/color/35/sass.png)![Java Spring](https://img.icons8.com/?id=90519&size=35)![VueJS](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)![PHP](https://img.icons8.com/officexs/35/php-logo.png)![Laravel](https://img.icons8.com/fluency/35/laravel.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
 
 ## Technologies
 
