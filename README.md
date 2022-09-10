@@ -4,7 +4,7 @@
 ](https://www.facebook.com/SamerAlshaer2020/)
 [
 ](https://www.facebook.com/SamerAlshaer2020/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Team+Leader;Software+Engineer;Competitive+Programmer;and+Cybersecurity+Specialist!;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Web+Developer;and+Competitive+Programmer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 
 I am a web developer, I had fun with every single line of code and I wish to code some more millions.
