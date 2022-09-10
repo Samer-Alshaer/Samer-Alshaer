@@ -1,7 +1,7 @@
 # `System.out.println("Hi there, I'm Samer!");` <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="Hi!">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)]([
-](https://www.facebook.com/SamerAlshaer2020/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)][
+](https://www.facebook.com/SamerAlshaer2020/)
 [
 ](https://www.facebook.com/SamerAlshaer2020/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=00EE00&size=24&width=500&lines=Team+Leader;Software+Engineer;Competitive+Programmer;and+Cybersecurity+Specialist!;Nice+to+meet+you...)](https://git.io/typing-svg)
